@@ -107,6 +107,7 @@ A curated list of AI agents, agent tools, MCP servers, and agentic technology re
 - [ACE-Step](https://huggingface.co/spaces/ACE-Step/ACE-Step) - Open-source foundation model for music generation that synthesizes up to 4 minutes of music in 20 seconds, with advanced controls like voice cloning, lyric editing, and remixing capabilities.
 - [ACE-Step v1.5](https://huggingface.co/spaces/ACE-Step/Ace-Step-v1.5) - Ultra-fast music generation foundation model with hybrid LM+DiT architecture.
 - [Chatterbox Multilingual TTS](https://huggingface.co/spaces/ResembleAI/Chatterbox-Multilingual-TTS) - Text-to-speech tool supporting 23 languages with MCP server capabilities for voice synthesis integration.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server and live-music venue directory for searching small venues across all 50 US states, DC, and British Columbia with load-in, stage, and tour-routing data.
 
 ## Infrastructure & Framework
 
